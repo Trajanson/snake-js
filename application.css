@@ -1,0 +1,16 @@
+body {
+    overflow: hidden;
+}
+
+#gameCanvas {
+    background-color: grey;
+    position: absolute;
+}
+
+
+
+#gameBoard {
+    position: absolute;
+    background-color: orange;
+    z-index: 5;
+}
